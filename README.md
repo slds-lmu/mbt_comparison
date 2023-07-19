@@ -1,5 +1,5 @@
-# Interpretation of black box models using model-based tree models
-This repository contains code, data and figures for the paper "Interpretation of black box models using model-based trees"
+# Leveraging Model-based Trees as Interpretable Surrogate Models for Model Distillation
+This repository contains code, data and figures for the paper "Leveraging Model-based Trees as Interpretable Surrogate Models for Model Distillation"
 
     ├── R/                                                       
     |   ├── tree_splitting_slim.R               # Function to generate slim tree            
